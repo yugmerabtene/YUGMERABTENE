@@ -16,6 +16,6 @@
   <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif">
 </p>
 <!-- Footer -->
-<p align="center">
-  <i>Made with 💖 and a cup of coffee</i>
+<p align="left">
+  <i>Made with 💖</i>
 </p>
