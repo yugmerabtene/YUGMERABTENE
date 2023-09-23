@@ -12,7 +12,7 @@
 - 🤔 Exploring Elliptic Curve Cryptography.
 - 💬 Ask me about anything tech-related.
 - 📧 Reach me at [contact@yug.be](mailto:contact@yug.be).
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif">
 </p>
 <!-- Footer -->
