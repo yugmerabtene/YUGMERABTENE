@@ -1,8 +1,3 @@
-<!-- Header with Computer Humor GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif">
-</p>
-
 <h1 align="center">Hello, I'm Yug! 👋</h1>
 
 <p align="center">
@@ -17,8 +12,9 @@
 - 🤔 Exploring Elliptic Curve Cryptography.
 - 💬 Ask me about anything tech-related.
 - 📧 Reach me at [contact@yug.be](mailto:contact@yug.be).
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif">
+</p>
 <!-- Footer -->
 <p align="center">
   <i>Made with 💖 and a cup of coffee</i>
