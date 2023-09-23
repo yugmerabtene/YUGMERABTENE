@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**yugmerabtene/yugmerabtene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello people from earth 👋
 
 - 🔭 I’m currently working as a FullStack Developer Teacher
 - 🌱 I’m currently learning Golang
