@@ -1,6 +1,6 @@
 <!-- Header with Computer Humor GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+  <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif">
 </p>
 
 <h1 align="center">Hello, I'm Yug! 👋</h1>
