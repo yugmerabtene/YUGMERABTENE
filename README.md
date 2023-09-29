@@ -19,5 +19,5 @@
 
 <!-- Footer -->
 <p align="left">
-  <i>Coding with 💖 from France</i>
+  <i>Coding with 💖</i>
 </p>
