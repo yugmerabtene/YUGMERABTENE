@@ -19,5 +19,5 @@
 
 <!-- Footer -->
 <p align="left">
-  <i>Made with 💖 in France</i>
+  <i>Coding with 💖 from France</i>
 </p>
