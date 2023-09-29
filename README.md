@@ -17,5 +17,5 @@
 </p>
 <!-- Footer -->
 <p align="left">
-  <i>Made with 💖</i>
+  <i>Made with 💖 in France</i>
 </p>
