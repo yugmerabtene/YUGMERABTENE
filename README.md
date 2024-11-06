@@ -11,7 +11,7 @@
 </p>
 
 - 💼 Working as a FullStack Developer Teacher.
-- 🌱 Learning C++.
+- 🌱 Learning AsmX86.
 - 🚀 Open to collaborating on exciting projects.
 - 🤔 Exploring Elliptic Curve Cryptography.
 - 💬 Ask me about anything tech-related.
