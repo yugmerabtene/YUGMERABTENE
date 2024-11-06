@@ -19,5 +19,5 @@
 
 <!-- Footer -->
 <p align="left">
-  <i>Coding with 💖 since 2005</i>
+  <i>Coding with 💖 since 2004</i>
 </p>
