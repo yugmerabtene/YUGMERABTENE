@@ -10,8 +10,8 @@
   <a href="https://codepen.io/yugmerabtene"><img src="https://img.shields.io/badge/CodePen-yugmerabtene-lightgrey" alt="CodePen"></a>  
 </p>
 
-- 💼 Working as a FullStack Developer Teacher.
-- 🌱 Learning AsmX86.
+- 💼 Working as a FullStack Developer & System Administrator Teacher.
+- 🌱 Learning asmX86.
 - 🚀 Open to collaborating on exciting projects.
 - 🤔 Exploring Elliptic Curve Cryptography.
 - 💬 Ask me about anything tech-related.
@@ -19,5 +19,5 @@
 
 <!-- Footer -->
 <p align="left">
-  <i>Coding with 💖</i>
+  <i>Coding with 💖 since 2005</i>
 </p>
