@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Yug! 👋</h1>
 <p align="center">
-  FullStack Developer Teacher | Passionate Learner | Code Enthusiast
+  FullStack Developer Teacher| System Administrator Teacher| Ethical Hacker | Passionate Learner | Code Enthusiast
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 💼 Working as a FullStack Developer & System Administrator Teacher.
 - 🌱 Learning asmX86.
 - 🚀 Open to collaborating on exciting projects.
-- 🤔 Exploring Elliptic Curve Cryptography.
+- 🤔 Exploring Elliptic Curve Cryptography (Diffie-Hellman).
 - 💬 Ask me about anything tech-related.
 - 📧 Reach me at [contact@yug.be](mailto:contact@yug.be).
 
