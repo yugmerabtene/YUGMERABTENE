@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Yug! 👋</h1>
 <p align="center">
-  FullStack Developer Teacher| System Administrator Teacher| Ethical Hacker | Passionate Learner | Code Enthusiast
+  FullStack Developer | System Administrator | Ethical Hacker | Passionate Learner | Code Enthusiast
 </p>
 
 <p align="center">
