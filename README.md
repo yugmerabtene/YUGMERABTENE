@@ -13,7 +13,7 @@
 - 💼 Working as a FullStack Developer & System Administrator Teacher.
 - 🌱 Learning asmX86.
 - 🚀 Open to collaborating on exciting projects.
-- 🤔 Exploring Elliptic Curve Cryptography (Diffie-Hellman).
+- 🤔 Crystals-Kyber & Crystals-Dilithium/Falcon.
 - 💬 Ask me about anything tech-related.
 - 📧 Reach me at [contact@yug.be](mailto:contact@yug.be).
 
