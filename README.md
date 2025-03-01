@@ -10,7 +10,7 @@
   <a href="https://codepen.io/yugmerabtene"><img src="https://img.shields.io/badge/CodePen-yugmerabtene-lightgrey" alt="CodePen"></a>  
 </p>
 
-- 💼 Working as a FullStack Developer & System Administrator Teacher.
+- 💼 Working as a FullStack Developer | System Administrator | CyberSecurity Teacher.
 - 🌱 Learning asmX86.
 - 🚀 Open to collaborating on exciting projects.
 - 🤔 Crystals-Kyber & Crystals-Dilithium/Falcon.
