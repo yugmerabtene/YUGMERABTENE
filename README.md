@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1e3a8a,100:0891b2&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20SysAdmin%20%7C%20Cybersecurity%20Teacher&descAlignY=58&descSize=17" alt="Youghourta Merabtène - Fullstack Developer, SysAdmin, Cybersecurity Teacher" />
-</p>
-
-<p align="center">
   <a href="https://yug.be"><img src="https://img.shields.io/badge/Website-yug.be-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:yug@yug.be"><img src="https://img.shields.io/badge/Email-yug@yug.be-0f172a?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/youghourta-merabt%C3%A8ne-76885b210/"><img src="https://img.shields.io/badge/LinkedIn-Youghourta%20Merabt%C3%A8ne-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
