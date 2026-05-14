@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://yug.be"><img src="https://img.shields.io/badge/Website-yug.be-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@yug.be"><img src="https://img.shields.io/badge/Email-contact@yug.be-0f172a?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:yug@yug.be"><img src="https://img.shields.io/badge/Email-yug@yug.be-0f172a?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/youghourta-merabt%C3%A8ne-76885b210/"><img src="https://img.shields.io/badge/LinkedIn-Youghourta%20Merabt%C3%A8ne-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yugmerabtene"><img src="https://img.shields.io/badge/X-@yugmerabtene-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
 </p>
@@ -97,8 +97,14 @@ Location     France
 ### GitHub Telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yugmerabtene&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugmerabtene&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/yugmerabtene?style=for-the-badge&label=Followers&color=0891b2&labelColor=0f172a" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/yugmerabtene?style=for-the-badge&label=Total%20Stars&color=0891b2&labelColor=0f172a" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-132-0891b2?style=for-the-badge&labelColor=0f172a" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Active%20Since-2013-0891b2?style=for-the-badge&labelColor=0f172a" alt="Active since 2013" />
+</p>
+
+<p align="center">
+  <strong>Profile signal:</strong> software engineering, cybersecurity education, cloud labs, post-quantum crypto, and system administration.
 </p>
 
 ---
@@ -120,5 +126,5 @@ Labs make knowledge real.
 </p>
 
 <p align="center">
-  <a href="https://yug.be">yug.be</a> / <a href="mailto:contact@yug.be">contact@yug.be</a> / Coding since 2004
+  <a href="https://yug.be">yug.be</a> / <a href="mailto:yug@yug.be">yug@yug.be</a> / Coding since 2004
 </p>
