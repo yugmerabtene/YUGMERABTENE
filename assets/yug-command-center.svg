@@ -1,0 +1,86 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">YugOS Command Center</title>
+  <desc id="desc">Cybersecurity, systems, software engineering, and teaching profile banner for Youghourta Merabtène.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.46" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 115) rotate(135) scale(430 260)">
+      <stop stop-color="#22D3EE" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(198 423) rotate(-33) scale(430 220)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="125" y1="80" x2="1075" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.83 0 0 0 0 0.93 0 0 0 0.55 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#1E293B" stroke-opacity="0.38" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="520" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="34" fill="url(#grid)"/>
+  <rect width="1200" height="520" rx="34" fill="url(#glowA)"/>
+  <rect width="1200" height="520" rx="34" fill="url(#glowB)"/>
+
+  <path d="M90 392C250 290 327 396 462 300C596 204 636 107 775 152C913 198 930 305 1110 228" stroke="url(#line)" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M90 414C274 307 343 420 484 323C628 224 656 132 793 174C935 218 939 334 1110 255" stroke="url(#line)" stroke-opacity="0.14" stroke-width="2"/>
+
+  <g transform="translate(76 72)">
+    <rect width="630" height="374" rx="26" fill="#020617" fill-opacity="0.78" stroke="#334155"/>
+    <rect x="1" y="1" width="628" height="56" rx="25" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="34" cy="29" r="7" fill="#F87171"/>
+    <circle cx="58" cy="29" r="7" fill="#FBBF24"/>
+    <circle cx="82" cy="29" r="7" fill="#34D399"/>
+    <text x="116" y="35" fill="#CBD5E1" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="15">yug@command-center:~/profile</text>
+
+    <text x="34" y="105" fill="#22D3EE" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ whoami</text>
+    <text x="34" y="156" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="48" font-weight="800">Youghourta Merabtène</text>
+    <text x="34" y="193" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" font-weight="500">Fullstack Developer · SysAdmin · Cybersecurity Teacher</text>
+
+    <text x="34" y="252" fill="#22D3EE" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ mission --now</text>
+    <text x="34" y="289" fill="#E2E8F0" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Build secure systems. Teach practical labs.</text>
+    <text x="34" y="319" fill="#E2E8F0" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Turn complex cyber topics into usable tools.</text>
+  </g>
+
+  <g transform="translate(752 72)">
+    <rect width="372" height="374" rx="26" fill="#020617" fill-opacity="0.62" stroke="#334155"/>
+    <text x="34" y="54" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="800">YugOS Signal</text>
+    <text x="34" y="84" fill="#94A3B8" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="14">operational profile</text>
+
+    <g transform="translate(34 122)">
+      <rect width="304" height="42" rx="13" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="22" cy="21" r="6" fill="#22D3EE" filter="url(#softGlow)"/>
+      <text x="44" y="27" fill="#E2E8F0" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="15">SOC labs / detection</text>
+    </g>
+    <g transform="translate(34 178)">
+      <rect width="304" height="42" rx="13" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="22" cy="21" r="6" fill="#A78BFA" filter="url(#softGlow)"/>
+      <text x="44" y="27" fill="#E2E8F0" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Post-quantum crypto</text>
+    </g>
+    <g transform="translate(34 234)">
+      <rect width="304" height="42" rx="13" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="22" cy="21" r="6" fill="#38BDF8" filter="url(#softGlow)"/>
+      <text x="44" y="27" fill="#E2E8F0" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Cloud / Linux / DevOps</text>
+    </g>
+    <g transform="translate(34 290)">
+      <rect width="304" height="42" rx="13" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="22" cy="21" r="6" fill="#34D399" filter="url(#softGlow)"/>
+      <text x="44" y="27" fill="#E2E8F0" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Teaching by building</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="518" rx="34" stroke="#38BDF8" stroke-opacity="0.18"/>
+</svg>
