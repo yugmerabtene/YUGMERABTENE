@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/yug-command-center.svg" alt="YugOS Command Center" width="100%" />
+  <img src="./assets/yug-command-center.svg" alt="Command Center" width="100%" />
 </p>
 
 <p align="center">
