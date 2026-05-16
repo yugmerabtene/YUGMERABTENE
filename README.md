@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/yug-command-center.svg" alt="Command Center" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://yug.be"><img src="https://img.shields.io/badge/yug.be-020617?style=for-the-badge&logo=google-chrome&logoColor=22D3EE&labelColor=020617" alt="Website" /></a>
   <a href="mailto:yug@yug.be"><img src="https://img.shields.io/badge/yug@yug.be-020617?style=for-the-badge&logo=protonmail&logoColor=A78BFA&labelColor=020617" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/youghourta-merabt%C3%A8ne-76885b210/"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617" alt="LinkedIn" /></a>
