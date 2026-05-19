@@ -1,4 +1,4 @@
-## Fullstack developer, system administrator and cybersecurity teacher based in France.
+## Fullstack developer, system administrator and cybersecurity teacher
 
 I build practical software, infrastructure and security labs with a focus on clarity, reliability and reproducibility.
 
