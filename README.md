@@ -1,4 +1,4 @@
-## Fullstack developer, system administrator and cybersecurity trainer based in France.
+## Fullstack developer, system administrator and cybersecurity teacher based in France.
 
 I build practical software, infrastructure and security labs with a focus on clarity, reliability and reproducibility.
 
@@ -6,17 +6,19 @@ I build practical software, infrastructure and security labs with a focus on cla
 
 - Fullstack web development
 - Linux system administration
-- Cybersecurity training and Blue Team labs
+- Cybersecurity training and Blue/Red Team labs
+- SOC workflows and detection engineering
 - Cloud, Docker and DevOps foundations
 - Technical teaching and student project mentoring
+- Data and iA engineering
 
 ## Current interests
 
-- SOC workflows and detection engineering
 - Secure development practices
 - Post-quantum cryptography
 - Low-level programming and language design
 - Practical education platforms
+- Agentic coding
 
 ## Selected projects
 - [KDX](https://github.com/yugmerabtene/KDX) — low-level programming language, designed for educational purpose.
