@@ -14,11 +14,11 @@ I build practical software, infrastructure and security labs with a focus on cla
 
 ## Current interests
 
-- Secure development practices
+- Secure agentic development practices, mcp, rag
 - Post-quantum cryptography
 - Low-level programming and language design
 - Practical education platforms
-- Agentic coding
+
 
 ## Selected projects
 - [KDX](https://github.com/yugmerabtene/KDX) — low-level programming language, designed for educational purpose.
