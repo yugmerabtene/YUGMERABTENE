@@ -1,6 +1,4 @@
-# Bonsoir
-
-Fullstack developer, system administrator and cybersecurity trainer based in France.
+## Fullstack developer, system administrator and cybersecurity trainer based in France.
 
 I build practical software, infrastructure and security labs with a focus on clarity, reliability and reproducibility.
 
