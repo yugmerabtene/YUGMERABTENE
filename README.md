@@ -4,7 +4,7 @@ I build practical software, infrastructure and security labs with a focus on cla
 
 ## Work
 
-- Fullstack web development
+- Software engineering
 - Linux system administration
 - Cybersecurity training and Blue/Red Team labs
 - SOC workflows and detection engineering
