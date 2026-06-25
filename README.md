@@ -20,8 +20,9 @@ I build practical software, infrastructure and security labs with a focus on cla
 - Practical education platforms
 
 ## Books
-- Author of The Agentic Developper Craftsmanship  (in developement)  
-- kdx A low level programming language created with asmx86 for learners (in developement)  
+- Author of :  
+  - The Agentic Developper Craftsmanship  (in developement)  
+  - kdx A low level programming language created with asmx86 for learners (in developement)  
 
 ## Selected projects
 - [KDX](https://github.com/yugmerabtene/KDX) — low-level programming language, designed for educational purpose.
